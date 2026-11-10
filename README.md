@@ -1,16 +1,32 @@
-## Hi there 👋
+# Lucas Neres
 
-<!--
-**LucasNeres36/LucasNeres36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend Developer | Java, Spring Boot & PostgreSQL**
 
-Here are some ideas to get you started:
+I build backend APIs with a focus on clear contracts, secure authentication, and reliable data access. I enjoy solving practical problems through small, reviewable changes and thoughtful collaboration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech stack
+
+- **Language:** Java
+- **Backend:** Spring Boot, Spring Security, REST APIs, OpenAPI
+- **Data:** PostgreSQL, Flyway
+- **Tools:** Maven, Docker Compose, GitHub Actions
+
+## Recent backend work
+
+- Designed and documented REST API contracts with OpenAPI
+- Implemented user registration, opaque session tokens, login and logout flows
+- Added role based authorization for protected endpoints
+- Managed database changes with PostgreSQL and Flyway migrations
+- Added automated tests for authentication, access control and API behavior
+- Used pull requests and CI checks to review and validate changes
+
+## What I value
+
+- Clear, consistent API behavior
+- Secure defaults and explicit authorization rules
+- Reproducible local development
+- Code that is easy to review and maintain
+
+I am open to backend development opportunities and collaborative projects.
+
+[GitHub profile](https://github.com/LucasNeres36)
